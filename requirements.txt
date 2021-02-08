@@ -22,7 +22,7 @@ hpack==3.0.0
 hstspreload==2020.11.21
 html2text==2020.1.16
 httpcore==0.9.1
-httplib2==0.18.1
+httplib2==0.19.0
 httpx==0.13.3
 hyperframe==5.2.0
 idna==2.10
